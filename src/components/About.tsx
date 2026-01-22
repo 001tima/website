@@ -12,7 +12,7 @@ export default function About() {
           <div className="relative">
             <div className="w-full aspect-square bg-gradient-to-br from-blue-400 to-rose-400 rounded-3xl shadow-2xl overflow-hidden">
               <img
-                src="img/tima.png"
+                src="img/tima1.png"
                 alt="Experte en cybersécurité"
                 className="w-full h-full object-cover mix-blend-overlay opacity-90"
               />
