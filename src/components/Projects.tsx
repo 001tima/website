@@ -23,7 +23,7 @@ const categories = [
       {
         title: 'Investigation USB avec USBDeview',
         description: 'Analyse des périphériques USB connectés et historique d\'utilisation avec l\'outil USBDeview',
-        image: 'img/usb.jpeg',
+        image: '/img/usb.jpeg',
         pdf: 'projet/forensic3.pdf',
         tags: ['USB', 'Forensique', 'Windows'],
         color: 'from-teal-500 to-emerald-500'
