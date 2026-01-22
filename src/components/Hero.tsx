@@ -14,7 +14,7 @@ export default function Hero() {
             <div className="absolute inset-0 bg-gradient-to-br from-blue-500 to-rose-400 rounded-full animate-spin-slow opacity-50"></div>
             <div className="absolute inset-2 bg-gradient-to-br from-cyan-400 to-pink-400 rounded-full overflow-hidden shadow-2xl">
               <img
-                src="../img/tima2.jpg"
+                src="/img/tima2.jpg"
                 alt="Sophie Moreau"
                 className="w-full h-full object-cover"
               />
